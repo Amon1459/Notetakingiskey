@@ -1,0 +1,28 @@
+{
+  "name": "notetaker-plus",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amon1459/NoteTaker-plus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amon1459/NoteTaker-plus/issues"
+  },
+  "homepage": "https://github.com/Amon1459/NoteTaker-plus#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
